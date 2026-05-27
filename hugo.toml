@@ -3,7 +3,11 @@ languageCode = "en-us"
 title = "knowledged.to"
 theme = "PaperMod"
 enableRobotsTXT = true
-paginate = 20
+
+ignoreLogs = ['warning-goldmark-raw-html']
+
+[pagination]
+  pagerSize = 20
 
 [params]
   homepageMode = "posts"
