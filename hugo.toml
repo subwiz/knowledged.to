@@ -1,0 +1,17 @@
+baseURL = "https://knowledged.to/"
+languageCode = "en-us"
+title = "knowledged.to"
+theme = "PaperMod"
+enableRobotsTXT = true
+paginate = 20
+
+[params]
+  homepageMode = "posts"
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowCodeCopyButtons = true
+  ShowToc = true
+  defaultTheme = "auto"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
