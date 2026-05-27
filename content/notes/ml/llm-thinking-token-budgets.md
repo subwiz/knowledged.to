@@ -10,7 +10,6 @@ date: "2026-05-25T17:09:36.967114Z"
 lastmod: "2026-05-25T22:48:50+05:30"
 draft: false
 ---
-# Thinking Token Budget
 
 Token budget parameters for thinking LLMs usually cap how many internal reasoning tokens the model may spend before producing the visible answer.
 

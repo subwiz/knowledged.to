@@ -10,7 +10,6 @@ date: "2026-05-16T17:21:30.059582Z"
 lastmod: "2026-05-16T22:52:19+05:30"
 draft: false
 ---
-# MCP Interaction Model
 
 ## Components (official MCP nomenclature)
 

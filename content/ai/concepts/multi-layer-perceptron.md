@@ -11,7 +11,6 @@ date: "2026-05-17T06:09:27.596311Z"
 lastmod: "2026-05-17T11:39:38+05:30"
 draft: false
 ---
-# Multi-Layer Perceptron (MLP)
 
 A **Multi-Layer Perceptron (MLP)** is one of the foundational types of artificial neural network. It learns to map inputs to outputs by passing data through a series of layers of interconnected nodes ("neurons"), adjusting internal weights during training until its predictions improve.
 

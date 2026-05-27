@@ -11,7 +11,6 @@ date: "2026-04-23T16:04:47.030705Z"
 lastmod: "2026-04-23T21:42:06+05:30"
 draft: false
 ---
-# Mixture of Experts (MoE)
 
 Mixture of Experts is an architecture pattern in machine learning where a model is divided into many specialized sub-networks ("experts"), with a routing mechanism that selectively activates only a subset of them for any given input.
 

@@ -11,7 +11,6 @@ date: "2026-04-23T16:39:20.696406Z"
 lastmod: "2026-04-23T22:15:42+05:30"
 draft: false
 ---
-# Unsloth Studio — Fine-tuning Dataset Formats
 
 Unsloth Studio supports several dataset formats depending on your fine-tuning goal. Files can be uploaded directly as **JSONL, JSON, CSV, Parquet, PDF, or DOCX**.
 

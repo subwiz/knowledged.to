@@ -14,7 +14,6 @@ date: "2026-04-25T15:53:49.012049Z"
 lastmod: "2026-04-25T21:31:15+05:30"
 draft: false
 ---
-# Fine-Tuning Techniques for LLMs
 
 Fine-tuning techniques can be grouped along a few axes: **what you optimize** (full weights vs. small additions), **what signal you train on** (labels, instructions, preferences, rewards), and **how the data is generated** (human, synthetic, AI-judged).
 

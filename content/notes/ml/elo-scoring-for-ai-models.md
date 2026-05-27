@@ -7,7 +7,6 @@ date: "2026-04-07T22:15:56+05:30"
 lastmod: "2026-04-07T22:15:56+05:30"
 draft: false
 ---
-# ELO Scoring for AI Models
 
 ELO scoring for AI models works the same way it does in chess — it's a method for ranking competitors based on head-to-head outcomes, where your rating rises or falls depending on whether you beat or lose to opponents of known strength.
 

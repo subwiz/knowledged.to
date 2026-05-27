@@ -14,7 +14,6 @@ date: "2026-05-21T16:08:55.751098Z"
 lastmod: "2026-05-21T21:39:32+05:30"
 draft: false
 ---
-# LLM Prompt Caching: Implicit vs Explicit
 
 Caching in LLM inference is about reusing the **KV-cache** computed from a prompt prefix so the model doesn't re-process the same tokens on every request. The "implicit vs explicit" distinction is about *who manages that cache*.
 

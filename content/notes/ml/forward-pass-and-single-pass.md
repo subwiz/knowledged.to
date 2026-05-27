@@ -7,7 +7,6 @@ date: "2026-04-16T21:19:49+05:30"
 lastmod: "2026-04-16T21:19:49+05:30"
 draft: false
 ---
-# Forward Pass and Single Pass in LLMs
 
 These terms are fundamental to understanding how LLMs work under the hood.
 

@@ -11,7 +11,6 @@ date: "2026-05-25T17:31:24.61085Z"
 lastmod: "2026-05-25T23:02:12+05:30"
 draft: false
 ---
-# Commit Intent in AI Harness Engineering
 
 **Commit intent** is the discipline of having an agent explicitly declare *what it is about to do, and why*, immediately before it actually invokes a tool — separating the decision from the execution as two distinct steps in the harness.
 

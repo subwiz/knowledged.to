@@ -7,7 +7,6 @@ date: "2026-04-16T22:04:57+05:30"
 lastmod: "2026-04-16T22:04:57+05:30"
 draft: false
 ---
-# Memory-Augmented Architectures
 
 Memory-augmented architectures are neural network designs that give a model access to an explicit, addressable memory store that exists separately from the model's weights. Standard transformers have two forms of "memory" baked in — the weights (long-term parametric knowledge frozen at training time) and the context window (short-term working memory limited to the current input). Memory-augmented architectures add a third, dynamic layer in between.
 

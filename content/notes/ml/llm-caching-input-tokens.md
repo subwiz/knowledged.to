@@ -12,7 +12,6 @@ date: "2026-05-21T15:43:26.86581Z"
 lastmod: "2026-05-21T21:14:09+05:30"
 draft: false
 ---
-# Why LLM Caching Is Only for Input Tokens
 
 Why prompt caching applies to inputs and not outputs in LLM APIs (Anthropic, OpenAI, Google). The asymmetry comes down to how inputs vs. outputs are computed, and what's actually reusable across requests.
 

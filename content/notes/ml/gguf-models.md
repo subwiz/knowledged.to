@@ -7,7 +7,6 @@ date: "2026-04-10T09:11:52+05:30"
 lastmod: "2026-04-10T09:11:52+05:30"
 draft: false
 ---
-# GGUF Models
 
 GGUF (GPT-Generated Unified Format) is a binary file format for storing and distributing large language models, designed specifically for efficient local inference.
 

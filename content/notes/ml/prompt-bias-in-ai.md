@@ -7,7 +7,6 @@ date: "2026-04-09T20:58:42+05:30"
 lastmod: "2026-04-09T20:58:42+05:30"
 draft: false
 ---
-# Prompt Bias in AI
 
 **Prompt bias** is a type of AI bias that comes from *how a question or instruction is written*, not just from the model itself.
 

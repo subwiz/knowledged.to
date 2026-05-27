@@ -9,7 +9,6 @@ date: "2026-05-25T17:16:33.760075Z"
 lastmod: "2026-05-25T22:47:08+05:30"
 draft: false
 ---
-# Sub-Agent vs Tool-Agent in AI Harness Engineering
 
 A sub-agent is another agentic process delegated a goal. It has its own prompt/context, can reason over steps, may call tools, and returns a synthesized result or handoff. Use it when the work benefits from independent judgment.
 

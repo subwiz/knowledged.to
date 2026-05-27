@@ -12,7 +12,6 @@ date: "2026-05-19T17:17:58.420793Z"
 lastmod: "2026-05-19T22:48:31+05:30"
 draft: false
 ---
-# GRPO — Group Relative Policy Optimization
 
 GRPO is a reinforcement learning algorithm introduced by DeepSeek (DeepSeekMath, later DeepSeek-R1) as a more efficient alternative to PPO for fine-tuning LLMs with RL.
 

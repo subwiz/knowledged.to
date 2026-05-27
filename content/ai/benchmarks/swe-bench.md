@@ -11,7 +11,6 @@ date: "2026-05-16T16:40:54.835578Z"
 lastmod: "2026-05-16T22:16:28+05:30"
 draft: false
 ---
-# SWE-bench & SWE-bench Pro Explained
 
 **SWE-bench** is a benchmark that tests whether an AI model can actually fix real GitHub issues from open-source Python repositories (like Django, Flask, scikit-learn, etc.). The model is given a repo, a bug report or feature request, and has to produce a code patch that makes the failing tests pass — without being told what to change.
 

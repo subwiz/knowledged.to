@@ -11,7 +11,6 @@ date: "2026-04-22T15:34:56.26019Z"
 lastmod: "2026-04-22T21:05:20+05:30"
 draft: false
 ---
-# Visual Chain-of-Thought Reasoning
 
 Visual chain-of-thought (CoT) reasoning is the extension of standard chain-of-thought prompting to multimodal settings — where the model reasons step-by-step over **both visual and textual information** together.
 

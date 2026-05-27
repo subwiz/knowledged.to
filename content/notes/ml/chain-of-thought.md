@@ -11,7 +11,6 @@ date: "2026-04-23T15:53:32.82242Z"
 lastmod: "2026-04-23T21:30:11+05:30"
 draft: false
 ---
-# Chain of Thought (CoT)
 
 Chain of Thought is a prompting technique where an AI model is guided — or learns — to reason through a problem step by step before arriving at a final answer, rather than jumping straight to the conclusion.
 

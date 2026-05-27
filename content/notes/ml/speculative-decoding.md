@@ -7,7 +7,6 @@ date: "2026-04-16T20:54:05+05:30"
 lastmod: "2026-04-16T20:54:05+05:30"
 draft: false
 ---
-# Speculative Decoding
 
 Speculative decoding is a clever inference optimization technique that exploits a fundamental asymmetry in how LLMs work: **verifying a token is much cheaper than generating one**.
 

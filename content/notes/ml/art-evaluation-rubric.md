@@ -12,7 +12,6 @@ date: "2026-05-14T13:02:47.711682Z"
 lastmod: "2026-05-14T18:33:28+05:30"
 draft: false
 ---
-# Six-Dimension Art Evaluation Rubric
 
 Source paper: [*Learning-based Artificial Intelligence Artwork: Methodology Taxonomy and Quality Evaluation*](https://dl.acm.org/doi/10.1145/3698105), ACM Computing Surveys (2024).
 

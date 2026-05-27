@@ -7,7 +7,6 @@ date: "2026-04-16T22:36:40+05:30"
 lastmod: "2026-04-16T22:36:40+05:30"
 draft: false
 ---
-# Elastic Looped Transformers (ELT)
 
 Elastic Looped Transformers (ELT) are a recent architectural innovation that rethinks how transformer layers are applied — moving from a fixed, one-pass stack to a dynamic, recurrent execution model.
 

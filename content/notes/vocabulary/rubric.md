@@ -9,7 +9,6 @@ date: "2026-05-14T12:50:15.513678Z"
 lastmod: "2026-05-14T18:20:21+05:30"
 draft: false
 ---
-# Rubric: Meaning and Origin
 
 A **rubric** is a scoring guide or evaluation framework that breaks down quality into specific, defined criteria. It provides a structured way to assess something by listing what to look for and, often, how much weight each criterion carries — rather than relying on a vague overall impression.
 

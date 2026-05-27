@@ -12,7 +12,6 @@ date: "2026-05-21T15:49:59.59372Z"
 lastmod: "2026-05-21T21:20:38+05:30"
 draft: false
 ---
-# Vectors vs Tensors — Are They the Same?
 
 Short answer: related but not identical. A vector is a special case of a tensor.
 

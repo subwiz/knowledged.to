@@ -15,7 +15,6 @@ date: "2026-05-19T06:12:48.497082Z"
 lastmod: "2026-05-19T11:43:24+05:30"
 draft: false
 ---
-# Tool-DC: Strategic Anchor Grouping — Web Search Example
 
 This is a concrete example illustrating how the Strategic Anchor Grouping mechanism works in the Tool-DC framework. See also: `notes/ml/tool-dc-framework.md`.
 

@@ -10,7 +10,6 @@ date: "2026-05-17T04:43:15.631597Z"
 lastmod: "2026-05-17T10:13:22+05:30"
 draft: false
 ---
-# Molecular Evolution of *Pediculus humanus* and the Origin of Clothing
 
 **Authors:** Ralf Kittler, Manfred Kayser, Mark Stoneking (Max Planck Institute for Evolutionary Anthropology)
 **Journal:** *Current Biology*, Vol. 13, Issue 16, pp. 1414–1417 (19 August 2003)

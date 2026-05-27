@@ -12,7 +12,6 @@ date: "2026-05-14T10:34:24.157662Z"
 lastmod: "2026-05-14T16:04:30+05:30"
 draft: false
 ---
-# LLM as Judge
 
 Using a language model to evaluate the outputs of another model (or itself) instead of relying on humans or rigid automated metrics like BLEU/ROUGE/exact-match. Give the judge model a response (or a pair of responses) plus a rubric or question, and it returns a score, a label, or a winner.
 

@@ -7,7 +7,6 @@ date: "2026-04-13T19:17:58+05:30"
 lastmod: "2026-04-13T19:17:58+05:30"
 draft: false
 ---
-# What Are Model Weights in an LLM?
 
 Model weights are the learned numbers inside the neural network.
 

@@ -11,7 +11,6 @@ date: "2026-04-17T16:56:26.008378Z"
 lastmod: "2026-04-17T22:26:44+05:30"
 draft: false
 ---
-# Diffusion Models in AI
 
 Diffusion models are a class of generative AI models that learn to create data (images, audio, video, etc.) by learning to reverse a gradual noising process.
 

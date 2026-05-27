@@ -12,7 +12,6 @@ date: "2026-04-24T17:18:23.132821Z"
 lastmod: "2026-04-24T22:50:16+05:30"
 draft: false
 ---
-# Deterministic Graders (for LLM / AI Evaluation)
 
 ## Definition
 

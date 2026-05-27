@@ -13,7 +13,6 @@ date: "2026-05-19T03:53:48.391602Z"
 lastmod: "2026-05-19T09:24:16+05:30"
 draft: false
 ---
-# Tool-DC Framework: Try, Check and Retry for Long-context Tool-Calling
 
 **Source:** arXiv:2603.11495 — Accepted at ACL 2026  
 **Authors:** Kunfeng Chen, Qihuang Zhong, Juhua Liu, Bo Du (Wuhan University), Dacheng Tao (NTU)

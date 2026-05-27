@@ -7,7 +7,6 @@ date: "2026-04-16T22:15:24+05:30"
 lastmod: "2026-04-16T22:15:24+05:30"
 draft: false
 ---
-# Tempo Framework
 
 Tempo is a framework designed to solve one of the hardest problems in multimodal AI: **understanding very long videos** without blowing up your context window or compute budget.
 

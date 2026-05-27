@@ -7,7 +7,6 @@ date: "2026-04-08T21:43:53+05:30"
 lastmod: "2026-04-08T21:43:53+05:30"
 draft: false
 ---
-# Primacy Bias in LLM Style Selection
 
 ## What primacy bias is
 

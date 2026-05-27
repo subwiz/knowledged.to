@@ -12,7 +12,6 @@ date: "2026-05-19T17:18:44.221551Z"
 lastmod: "2026-05-19T22:49:14+05:30"
 draft: false
 ---
-# PPO — Proximal Policy Optimization
 
 PPO is a reinforcement learning algorithm from OpenAI (Schulman et al., 2017) that became the default workhorse for RLHF — it's what trained InstructGPT and the original ChatGPT.
 

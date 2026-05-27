@@ -7,7 +7,6 @@ date: "2026-04-16T22:42:26+05:30"
 lastmod: "2026-04-16T22:42:26+05:30"
 draft: false
 ---
-# AI Prompts: System Prompt and Other Types
 
 ## System Prompt
 

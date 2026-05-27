@@ -9,7 +9,6 @@ date: "2026-05-25T18:01:07.54188Z"
 lastmod: "2026-05-25T23:31:16+05:30"
 draft: false
 ---
-# Anti-narration in Harness Engineering
 
 **In AI harness engineering, “anti‑narration” means the harness is designed to prevent large language models (LLMs) from producing fluent but unverified stories — it enforces verification before accepting outputs, ensuring correctness over coherence. It’s not about stopping hallucinations directly, but about breaking the tendency of AI systems to narrate confidently without grounding.**
 

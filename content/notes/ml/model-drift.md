@@ -13,7 +13,6 @@ date: "2026-05-21T15:33:36.56108Z"
 lastmod: "2026-05-21T21:04:12+05:30"
 draft: false
 ---
-# Model Drift
 
 Model drift is the general phenomenon where a deployed model's predictive performance degrades over time, even though nothing about the model itself has changed. The model is the same; the world it operates in isn't.
 

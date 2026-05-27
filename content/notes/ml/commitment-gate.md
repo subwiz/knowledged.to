@@ -10,7 +10,6 @@ date: "2026-05-13T16:01:45.110319Z"
 lastmod: "2026-05-13T21:32:31+05:30"
 draft: false
 ---
-# Commitment Gate (Harness Engineering)
 
 A **commitment gate** is a verification checkpoint between an agent producing a candidate output and that output being "locked in" — emitted as a final answer, written to disk, or used to call an irreversible tool. Instead of running skills along a fixed script and fusing results at the end (where errors propagate silently into late fusion), a harness with commitment gates pauses at each commit point, runs relative checks, and either lets the result through or triggers a targeted recovery loop.
 

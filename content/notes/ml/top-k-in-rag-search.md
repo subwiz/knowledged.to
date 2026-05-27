@@ -11,7 +11,6 @@ date: "2026-05-18T16:11:28.246823Z"
 lastmod: "2026-05-18T21:42:00+05:30"
 draft: false
 ---
-# Top-K in RAG Search
 
 In Retrieval-Augmented Generation (RAG), **top-k** is the number of most relevant document chunks the retriever returns from the vector store for a given query. The "k" is literally just a number — top-3, top-5, top-10, etc.
 

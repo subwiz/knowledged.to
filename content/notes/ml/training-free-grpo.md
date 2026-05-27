@@ -7,7 +7,6 @@ date: "2026-04-06T22:33:04+05:30"
 lastmod: "2026-04-06T22:33:04+05:30"
 draft: false
 ---
-# Training-Free GRPO — One-Page Summary
 
 Paper: Training-Free Group Relative Policy Optimization
 By: Youtu-Agent Team

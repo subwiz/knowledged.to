@@ -7,7 +7,6 @@ date: "2026-04-06T18:59:45+05:30"
 lastmod: "2026-04-06T18:59:45+05:30"
 draft: false
 ---
-# Kubernetes Port Forward
 
 Use this command:
 

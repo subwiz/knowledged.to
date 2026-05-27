@@ -16,7 +16,6 @@ date: "2026-05-19T05:08:59.082315Z"
 lastmod: "2026-05-19T10:39:29+05:30"
 draft: false
 ---
-# AgentFlow: In-the-Flow Agentic System Optimization
 
 **Source:** arXiv:2510.05592 — ICLR 2026 Oral (Top 1.1%)  
 **Authors:** Zhuofeng Li, Haoxiang Zhang, Seungju Han, Sheng Liu, Jianwen Xie, Yu Zhang, Yejin Choi, James Zou, Pan Lu (Stanford University, Texas A&M, UC San Diego, Lambda)

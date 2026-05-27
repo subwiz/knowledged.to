@@ -11,7 +11,6 @@ date: "2026-05-14T12:52:49.60524Z"
 lastmod: "2026-05-14T18:23:20+05:30"
 draft: false
 ---
-# Gestalt Principles
 
 Gestalt principles are a set of rules from psychology describing how the human mind naturally organizes visual information into meaningful wholes rather than perceiving a collection of separate parts. The name comes from the German word *Gestalt*, meaning "shape" or "form," and the core idea is captured in the phrase: **the whole is greater than the sum of its parts**.
 

@@ -9,7 +9,6 @@ date: "2026-05-01T16:17:32.958522Z"
 lastmod: "2026-05-01T21:48:03+05:30"
 draft: false
 ---
-# Defense-in-Depth
 
 Defense-in-depth is a security strategy that uses multiple layers of defenses so that if one layer fails, others still protect the system. The idea comes from military fortification — castles didn't rely on a single wall; they had moats, outer walls, inner walls, keeps, and so on. Breaching one didn't mean the attacker won.
 

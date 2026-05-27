@@ -11,7 +11,6 @@ date: "2026-04-17T17:47:03.101721Z"
 lastmod: "2026-04-17T23:17:34+05:30"
 draft: false
 ---
-# Agent Harness Engineering
 
 Agent harness engineering is the practice of building the scaffolding, infrastructure, and tooling that surrounds an AI agent — everything that isn't the model itself but makes the model useful, reliable, and safe in production.
 

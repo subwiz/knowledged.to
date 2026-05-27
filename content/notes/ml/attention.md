@@ -12,7 +12,6 @@ date: "2026-05-17T05:54:45.17871Z"
 lastmod: "2026-05-17T11:25:39+05:30"
 draft: false
 ---
-# Attention in Machine Learning
 
 Attention is a mechanism that lets a model dynamically decide *which parts of the input matter most* when producing each piece of output. Instead of compressing everything into one fixed representation, the model computes a weighted combination of inputs where the weights are learned and depend on context.
 

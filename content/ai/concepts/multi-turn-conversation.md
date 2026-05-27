@@ -11,7 +11,6 @@ date: "2026-04-21T15:13:14.217672Z"
 lastmod: "2026-04-21T20:44:22+05:30"
 draft: false
 ---
-# Multi-Turn Conversation in AI
 
 Multi-turn conversation in AI refers to a dialogue system where a model maintains context across multiple exchanges — rather than treating each message as an isolated input.
 

@@ -10,7 +10,6 @@ date: "2026-05-17T12:50:09.073839Z"
 lastmod: "2026-05-17T18:23:04+05:30"
 draft: false
 ---
-# Why Skirts Became Associated With Women and Trousers With Men
 
 The short answer is: **skirts are not an inherently “female” form of clothing, and trousers are not an inherently “male” one**. Across history, many men wore non-bifurcated garments — garments that do **not** pass between the legs — such as tunics, robes, kilts, togas, kaftans, sarongs, and long shirts. The strong Western association of **women = skirts/dresses** and **men = trousers** developed gradually from a mix of practical needs, class signals, gender norms, modesty rules, and later industrial-era fashion conventions.
 

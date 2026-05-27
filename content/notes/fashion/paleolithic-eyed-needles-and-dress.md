@@ -11,7 +11,6 @@ date: "2026-05-17T04:38:21.975189Z"
 lastmod: "2026-05-17T10:08:30+05:30"
 draft: false
 ---
-# Paleolithic Eyed Needles and the Evolution of Dress
 
 **Authors:** Ian Gilligan, Francesco d'Errico, Luc Doyon, Wei Wang, Yaroslav V. Kuzmin
 **Published:** *Science Advances* 10, eadp2887 — 28 June 2024 ([DOI](https://www.science.org/doi/10.1126/sciadv.adp2887))
