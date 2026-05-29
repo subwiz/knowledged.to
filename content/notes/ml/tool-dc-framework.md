@@ -9,8 +9,9 @@ tags:
   - research
   - agentic-ai
   - function-calling
-date: "2026-05-19T03:53:48.391602Z"
-lastmod: "2026-05-19T09:24:16+05:30"
+  - tool-dc
+date: "2026-05-19T03:53:48Z"
+lastmod: "2026-05-29T04:17:06Z"
 draft: false
 ---
 
