@@ -32,6 +32,10 @@ blockquote.alert {
     background: var(--code-bg);
 }
 
+blockquote:not(.alert) {
+    white-space: pre-line;
+}
+
 [data-theme="dark"] blockquote.alert {
     background: var(--entry);
 }
@@ -63,4 +67,5 @@ blockquote.alert p {
 
 blockquote.alert p:not(.alert-heading) {
     padding-top: 0.3rem;
+    white-space: pre-line;
 }
