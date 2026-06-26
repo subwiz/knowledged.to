@@ -22,3 +22,45 @@ details.post-description .inner {
     line-height: 1.5;
     color: var(--secondary);
 }
+
+/* GitHub-style alerts */
+blockquote.alert {
+    margin: 1rem 0;
+    padding: 0.5rem 1rem;
+    border-radius: var(--radius);
+    border-left: 4px solid var(--border);
+    background: var(--code-bg);
+}
+
+[data-theme="dark"] blockquote.alert {
+    background: var(--entry);
+}
+
+blockquote.alert .alert-heading {
+    font-weight: 600;
+    font-size: 0.9em;
+    margin-bottom: 0.3rem;
+}
+
+blockquote.alert-note     { border-left-color: #4493f8; }
+blockquote.alert-note .alert-heading     { color: #4493f8; }
+
+blockquote.alert-tip      { border-left-color: #3fb950; }
+blockquote.alert-tip .alert-heading      { color: #3fb950; }
+
+blockquote.alert-important { border-left-color: #a371f7; }
+blockquote.alert-important .alert-heading { color: #a371f7; }
+
+blockquote.alert-warning  { border-left-color: #d29922; }
+blockquote.alert-warning .alert-heading  { color: #d29922; }
+
+blockquote.alert-caution  { border-left-color: #db6d28; }
+blockquote.alert-caution .alert-heading  { color: #db6d28; }
+
+blockquote.alert p {
+    margin: 0;
+}
+
+blockquote.alert p:not(.alert-heading) {
+    padding-top: 0.3rem;
+}

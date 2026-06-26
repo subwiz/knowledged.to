@@ -6,6 +6,12 @@ enableRobotsTXT = true
 
 ignoreLogs = ['warning-goldmark-raw-html']
 
+[markup.goldmark.renderer]
+  unsafe = true
+
+[markup.goldmark.parser.attribute]
+  block = true
+
 [pagination]
   pagerSize = 20
 
