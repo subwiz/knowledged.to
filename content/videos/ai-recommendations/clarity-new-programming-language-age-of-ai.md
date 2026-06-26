@@ -1,6 +1,6 @@
 ---
 title: 'Clarity: The New Programming Language in the Age of AI'
-description: 'Placement: Create new section "AI & The Future of Work" and add the new video summary. Also fixing the "Notes" section which contains a malformed entry for ''Local + Frontier Model Collaboration Patterns'' that should be removed, as the actual entry already exists cleanly in the list.'
+description: 'Rainer Stropek argues that as AI automates coding syntax, the new core technical skill is clarity — the ability to precisely describe intent, set constraints, and verify results. Programmers are the "canary in the coal mine" for all knowledge workers facing this shift.'
 tags:
   - video
   - ai

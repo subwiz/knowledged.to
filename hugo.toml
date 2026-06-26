@@ -11,7 +11,7 @@ ignoreLogs = ['warning-goldmark-raw-html']
 
 [params]
   homepageMode = "posts"
-  mainSections = ["notes", "ai"]
+  mainSections = ["notes", "ai", "videos"]
   ShowReadingTime = true
   ShowShareButtons = false
   ShowCodeCopyButtons = true
