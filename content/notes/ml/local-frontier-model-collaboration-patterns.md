@@ -1,6 +1,6 @@
 ---
 title: Local + Frontier Model Collaboration Patterns in Open Source Harnesses
-description: New file `notes/ml/local-frontier-model-collaboration-patterns.md` added to the Notes section, alphabetically positioned after 'LLM Thinking Token Budgets' and before 'GGUF Models'.
+description: As local LLM capabilities improve, harness architecture is evolving to let local models collaborate with frontier models. The patterns already exist in open source, clustering into four distinct architectures that solve different problems.
 tags:
   - llm
   - agents
@@ -9,7 +9,7 @@ tags:
   - routing
   - speculative-decoding
 date: "2026-06-24T17:08:01Z"
-lastmod: "2026-06-24T17:08:06Z"
+lastmod: "2026-06-26T16:20:57Z"
 draft: false
 ---
 
