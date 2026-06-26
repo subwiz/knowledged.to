@@ -1,6 +1,6 @@
 ---
 title: Local + Frontier Model Collaboration Patterns in Open Source Harnesses
-description: As local LLM capabilities improve, harness architecture is evolving to let local models collaborate with frontier models. The patterns already exist in open source, clustering into four distinct architectures that solve different problems.
+description: As local LLMs improve, harnesses are learning to pair them with frontier models. A look at the four collaboration patterns already shipping in open source.
 tags:
   - llm
   - agents
@@ -9,7 +9,7 @@ tags:
   - routing
   - speculative-decoding
 date: "2026-06-24T17:08:01Z"
-lastmod: "2026-06-26T16:20:57Z"
+lastmod: "2026-06-26T16:26:12Z"
 draft: false
 ---
 
