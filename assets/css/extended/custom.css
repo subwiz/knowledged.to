@@ -1,0 +1,24 @@
+/* Collapsible post description — smaller font, dulled color */
+details.post-description {
+    margin-top: 10px;
+    margin-bottom: 0;
+    background: var(--code-bg);
+    border-radius: var(--radius);
+    border: 1px solid var(--border);
+}
+
+[data-theme="dark"] details.post-description {
+    background: var(--entry);
+}
+
+details.post-description summary {
+    padding: 0.3rem 1.2rem;
+    border-radius: var(--radius);
+}
+
+details.post-description .inner {
+    padding: 0.5rem 1.2rem;
+    font-size: 13px;
+    line-height: 1.5;
+    color: var(--secondary);
+}
