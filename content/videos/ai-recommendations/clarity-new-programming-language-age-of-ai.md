@@ -1,6 +1,6 @@
 ---
 title: 'Clarity: The New Programming Language in the Age of AI'
-description: 'Rainer Stropek argues that as AI automates coding syntax, the new core technical skill is clarity — the ability to precisely describe intent, set constraints, and verify results. Programmers are the "canary in the coal mine" for all knowledge workers facing this shift.'
+description: Rainer Stropek argues that as AI automates coding syntax, the new core technical skill is clarity — the ability to precisely describe intent, set constraints, and verify results. Programmers are the "canary in the coal mine" for all knowledge workers facing this shift.
 tags:
   - video
   - ai
