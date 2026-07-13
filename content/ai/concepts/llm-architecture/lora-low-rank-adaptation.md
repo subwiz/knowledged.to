@@ -1,6 +1,6 @@
 ---
 title: LoRA (Low-Rank Adaptation) in AI
-description: A new section for Fine-Tuning Techniques is created to hold the LoRA document, and the LLM Architecture section is de-duplicated.
+description: LoRA efficiently fine-tunes large models by training small low-rank adapter matrices instead of updating all weights.
 tags:
   - lora
   - fine-tuning
@@ -8,7 +8,7 @@ tags:
   - llm
   - qlora
 date: "2026-07-01T06:30:39Z"
-lastmod: "2026-07-01T06:31:01Z"
+lastmod: "2026-07-13T05:18:36Z"
 draft: false
 ---
 
