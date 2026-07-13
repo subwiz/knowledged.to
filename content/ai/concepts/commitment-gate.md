@@ -29,19 +29,20 @@ Without a commitment gate, an agent may generate code that is syntactically vali
 
 If you meant a different “commitment gate” from Harness’s cloud cost product or another internal Harness term, say which Harness area you’re referring to and I’ll narrow it down.
 
-Sources
-[1] Harness engineering: leveraging Codex in an agent-first ... https://openai.com/index/harness-engineering/
-[2] Harness Engineering for AI Coding Agents: Constraints ... https://www.augmentcode.com/guides/harness-engineering-ai-coding-agents
-[3] What is harness engineering? - SIG https://www.softwareimprovementgroup.com/blog/what-is-harness-engineering/
-[4] Harness Engineering: What It Means for QA https://testcollab.com/blog/harness-engineering
-[5] Harness Engineering as Categorical Architecture https://arxiv.org/abs/2605.12239
-[6] Cloud Cost Management feature: Commitment Orchestrator https://www.harness.io/products/cloud-cost-management/commitment-orchestrator
-[7] Signed Commits using Git Experience https://developer.harness.io/docs/platform/git-experience/signed-commits-harness
-[8] Agent Harness Engineering https://addyosmani.com/blog/agent-harness-engineering/
-[9] Harness Commitment Orchestrator: A Modernized FinOps ... https://www.harness.io/blog/harness-commitment-orchestrator-a-modernized-finops-experience
-[10] Harness & SonarQube Integration | Code Quality & Security https://www.sonarsource.com/integrations/harness/
-[11] Harness Engineering with Nothing but Markdown https://dev.to/aws-builders/harness-engineering-with-nothing-but-markdown-g6b
-[12] Harness Engineering https://engineering.harness.io
-[13] Commitment Orchestrator Events APIs https://apidocs.harness.io/commitment-orchestrator-events-apis
-[14] ai-boost/awesome-harness-engineering https://github.com/ai-boost/awesome-harness-engineering
-[15] Harness - APIs.io https://apis.io/providers/harness/
+## Sources
+
+1. [Harness engineering: leveraging Codex in an agent-first ...](https://openai.com/index/harness-engineering/)
+2. [Harness Engineering for AI Coding Agents: Constraints ...](https://www.augmentcode.com/guides/harness-engineering-ai-coding-agents)
+3. [What is harness engineering? - SIG](https://www.softwareimprovementgroup.com/blog/what-is-harness-engineering/)
+4. [Harness Engineering: What It Means for QA](https://testcollab.com/blog/harness-engineering)
+5. [Harness Engineering as Categorical Architecture](https://arxiv.org/abs/2605.12239)
+6. [Cloud Cost Management feature: Commitment Orchestrator](https://www.harness.io/products/cloud-cost-management/commitment-orchestrator)
+7. [Signed Commits using Git Experience](https://developer.harness.io/docs/platform/git-experience/signed-commits-harness)
+8. [Agent Harness Engineering](https://addyosmani.com/blog/agent-harness-engineering/)
+9. [Harness Commitment Orchestrator: A Modernized FinOps ...](https://www.harness.io/blog/harness-commitment-orchestrator-a-modernized-finops-experience)
+10. [Harness & SonarQube Integration | Code Quality & Security](https://www.sonarsource.com/integrations/harness/)
+11. [Harness Engineering with Nothing but Markdown](https://dev.to/aws-builders/harness-engineering-with-nothing-but-markdown-g6b)
+12. [Harness Engineering](https://engineering.harness.io)
+13. [Commitment Orchestrator Events APIs](https://apidocs.harness.io/commitment-orchestrator-events-apis)
+14. [ai-boost/awesome-harness-engineering](https://github.com/ai-boost/awesome-harness-engineering)
+15. [Harness - APIs.io](https://apis.io/providers/harness/)

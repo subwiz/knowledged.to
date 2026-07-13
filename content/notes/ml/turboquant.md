@@ -54,17 +54,18 @@ For an AI systems builder like you, the practical takeaway is that TurboQuant is
 
 Would you like me to also explain the paper **math-first** or **engineering-first**?
 
-Sources
-[1] Online Vector Quantization with Near-optimal Distortion Rate https://arxiv.org/abs/2504.19874
-[2] TurboQuant: Redefining AI efficiency with extreme ... https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/
-[3] TurboQuant: Online Vector Quantization with Near-optimal ... https://openreview.net/forum?id=tO3ASKZlok
-[4] Online Vector Quantization with Near-optimal Distortion Rate https://arxiv.org/pdf/2504.19874.pdf
-[5] TurboQuant https://en.wikipedia.org/wiki/TurboQuant
-[6] TurboQuant: Near-optimal KV cache quantization for LLM ... https://github.com/0xSero/turboquant
-[7] A simple explanation of the key idea behind TurboQuant https://www.reddit.com/r/LocalLLaMA/comments/1s62g5v/a_simple_explanation_of_the_key_idea_behind/
-[8] TurboQuant in Qdrant https://qdrant.tech/articles/turboquant-quantization/
-[9] TurboQuant: Online Vector Quantization with Near-optimal ... https://arxiv.org/html/2504.19874v1
-[10] TurboQuant.net - Independent TurboQuant Analysis https://turboquant.net
-[11] TurboQuant Explained.. https://www.youtube.com/watch?v=7V0Vt2QzMDk
-[12] [D] TurboQuant author replies on OpenReview https://www.reddit.com/r/MachineLearning/comments/1s8yni2/d_turboquant_author_replies_on_openreview/
-[13] TurboQuant: Redefining AI efficiency with extreme ... https://news.ycombinator.com/item?id=47513475
+## Sources
+
+1. [Online Vector Quantization with Near-optimal Distortion Rate](https://arxiv.org/abs/2504.19874)
+2. [TurboQuant: Redefining AI efficiency with extreme ...](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/)
+3. [TurboQuant: Online Vector Quantization with Near-optimal ...](https://openreview.net/forum?id=tO3ASKZlok)
+4. [Online Vector Quantization with Near-optimal Distortion Rate](https://arxiv.org/pdf/2504.19874.pdf)
+5. [TurboQuant](https://en.wikipedia.org/wiki/TurboQuant)
+6. [TurboQuant: Near-optimal KV cache quantization for LLM ...](https://github.com/0xSero/turboquant)
+7. [A simple explanation of the key idea behind TurboQuant](https://www.reddit.com/r/LocalLLaMA/comments/1s62g5v/a_simple_explanation_of_the_key_idea_behind/)
+8. [TurboQuant in Qdrant](https://qdrant.tech/articles/turboquant-quantization/)
+9. [TurboQuant: Online Vector Quantization with Near-optimal ...](https://arxiv.org/html/2504.19874v1)
+10. [TurboQuant.net - Independent TurboQuant Analysis](https://turboquant.net)
+11. [TurboQuant Explained..](https://www.youtube.com/watch?v=7V0Vt2QzMDk)
+12. [\[D\] TurboQuant author replies on OpenReview](https://www.reddit.com/r/MachineLearning/comments/1s8yni2/d_turboquant_author_replies_on_openreview/)
+13. [TurboQuant: Redefining AI efficiency with extreme ...](https://news.ycombinator.com/item?id=47513475)
